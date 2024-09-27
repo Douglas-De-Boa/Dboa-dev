@@ -1,0 +1,18 @@
+body{
+    background-color: steelblue;
+}
+.conteiner{
+    width: auto;
+    height: 700px;
+    background-color:steelblue;
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 80px;
+}
+.item{
+    width: 2000px;
+    height: 200px;
+    display: flex;
+    background-color: aliceblue;
+}
